@@ -1,0 +1,7 @@
+/.idea
+
+/vendor
+
+/composer.lock
+/local-examples
+/prod-examples
